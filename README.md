@@ -14,7 +14,7 @@ I’m a passionate software developer who loves solving problems, building tools
 - 💬 Ask me about **Python, Django, Flask, or Git** – I’d love to help!
 - 📫 How to reach me:  
   [farhad@example.com](mailto:farhadvb@gmail.com) | [LinkedIn](https://www.linkedin.com/in/farhadvb/) | [Website](https://farhadvb.github.io/)
-- ⚡ Fun fact: I’m also a guitarist 🎸 and love hiking ⛰️!
+- ⚡ Fun fact: I’m also a Book reading 📙 and love hiking ⛰️!
 
 ---
 
